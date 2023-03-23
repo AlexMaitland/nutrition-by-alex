@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+html {
+    height: 100%;
+    box-sizing: border-box
+}
+
+body {
+    font-family: montserrat, sans-serif;
+    font-weight: 300;
+    color: #023b59;
+    background-color: #fff;
+    min-height: 100%;
+    box-sizing: inherit;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
