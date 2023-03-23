@@ -81,3 +81,20 @@ a {
 }
 
 /* Hero Image */
+
+#main-img-outer {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+   
+}
+
+#main-img {
+    height: 600px;
+    width: 100%;
+    background-image: url(../images/pexels-ella-olsson-1640771\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
