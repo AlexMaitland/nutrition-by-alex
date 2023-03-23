@@ -252,3 +252,54 @@ a {
   .btn:hover {
     background-color: #0062cc;
   }
+
+  /* Footer */
+
+  footer {
+    background-color: #282a2b;
+    border-top: 1px solid #4b4c4d;
+    color: #fff;
+    width: 100%;
+}
+
+#footer-left > p, 
+#footer-right > p {
+    font-size: 1rem;
+}
+
+#footer-left {
+    width: 25%;
+    float: left;
+    text-align: center;
+    display: inline-block;
+}
+
+#footer-right {
+    width: 25%;
+    text-align: center;
+    display: inline-block;
+    float: right;
+}
+
+#footer-mid {
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.social-list > li {
+    display: inline-block;
+    margin: 10px;
+    list-style-type: none;
+}
+
+.fa-brands {
+    color: white;
+    font-size: 150%;
+    margin: 10px;
+}
+
+.fa-brands:hover {
+    color: #007bff;
+}
