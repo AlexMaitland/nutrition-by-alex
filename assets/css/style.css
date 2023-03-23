@@ -40,6 +40,10 @@ p {
     line-height: 1.5;
 }
 
+.section {
+    margin-top: 70px;
+}
+
 /* Header */
 #logo {
     float: left;
@@ -98,3 +102,36 @@ a {
     background-size: cover;
 }
 
+/* About me */
+
+#about-me {
+    min-height: 600px;
+    position: relative;
+    margin-top: 70px;
+}
+
+#about-text {
+    float: left;
+    padding-top: 30px;
+    width: 60%;
+    margin-left: 30px;
+    display: inline-block;
+}
+
+#about-img {
+    width: 27%;
+    display: inline-block;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+#about-img > img {
+    max-width: 100%;
+
+}
+
+.sub-head {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 250%;
+}
