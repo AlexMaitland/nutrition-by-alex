@@ -135,3 +135,41 @@ a {
     padding: 20px 0;
     font-size: 250%;
 }
+
+/* How I Can Help */
+
+#how-i-can-help {
+    margin-top: 70px;
+    clear: both;
+    width: 100%;
+}
+
+.plan-choice {
+    width: 25%;
+    height: 425px;
+    float: left;
+    box-sizing: border-box;
+    text-align: left;
+    padding: 30px 25px 0;
+    border: 3px solid #fff;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+}
+
+.plan-choice > h2 {
+    color: #fff;
+    text-align: center;
+}
+
+.plan-choice > ul {
+    list-style: none;
+    padding-top: 20px;
+}
+
+.plan-choice > ul > li {
+    margin-bottom: 10px;
+}
+
+#how-i-can-help > .plan-choice > ul {
+    list-style-type: square;
+}
