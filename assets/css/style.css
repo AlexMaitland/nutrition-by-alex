@@ -351,3 +351,38 @@ a {
     }
 
 }
+
+@media screen and (max-width: 700px) {
+    #menu{
+        margin-left: 10px;
+        letter-spacing: normal;
+        min-width: 100%;
+    }
+
+    #menu li {
+        margin-right: 15px;
+    }
+
+    #logo {
+        margin-left: 10px;
+        font-size: 250%;
+    }
+    #about-text {
+        padding: 0;
+        width: auto;
+        margin: 30px;
+        display: block;
+    }
+    #about-text > p {
+        font-size: 1rem;
+    }
+    #about-img {
+        width: 70%;
+        display: block;
+        padding: 0;
+        margin: 0 auto;
+    }
+    .form {
+        margin: 0;
+    }
+}
