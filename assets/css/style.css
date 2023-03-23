@@ -305,3 +305,20 @@ a {
 .fa-brands:hover {
     color: #007bff;
 }
+
+@media screen and (max-width: 1350px) {
+    #plan-wrapper > div {
+        width: 100%;
+        height: fit-content;
+        padding: 0;
+        clear: both;
+        text-align: center;
+    }    
+
+    #about-me {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+}
