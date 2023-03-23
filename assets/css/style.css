@@ -144,6 +144,16 @@ a {
     width: 100%;
 }
 
+#plan-wrapper {
+    background-image: url(../images/pexels-yelena-odintsova-15792419.jpg);
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    border: 3px solid #fff;
+}
+
 .plan-choice {
     width: 25%;
     height: 425px;
