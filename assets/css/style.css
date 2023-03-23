@@ -183,3 +183,72 @@ a {
 #how-i-can-help > .plan-choice > ul {
     list-style-type: square;
 }
+
+/* sign-up */
+
+.sign-up-intro {
+    margin: 0 30px;
+}
+
+#sign-up-outer {
+    margin: 30px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 30px auto;
+    width: 50%;
+  }
+  
+  .form__group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5rem;
+  }
+  
+  .form__group label {
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+  }
+  
+  .form__group input,
+  .form__group select {
+    padding: 0.7rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1.2rem;
+  }
+
+  .form__group > input {
+    min-width: 15rem;
+  }
+
+  .form__group > select {
+    width: 15rem;
+    font-family: montserrat, sans-serif;
+  }
+  
+  .form-wrapper {
+    margin: 0 12.5%;
+  }
+
+  .btn {
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    font-family: montserrat, sans-serif;
+    font-size: 1.2rem;
+    font-weight: 500;
+    padding: 0.7rem 2rem;
+    transition: background-color 0.3s ease;
+    width: 10rem
+  }
+  
+  .btn:hover {
+    background-color: #0062cc;
+  }
