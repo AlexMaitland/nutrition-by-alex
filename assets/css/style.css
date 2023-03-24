@@ -264,30 +264,12 @@ a {
     width: 100%;
 }
 
-#footer-left > p, 
-#footer-right > p {
+.footer-center {
+    text-align: center;
+}
+
+.footer-center > p {
     font-size: 1rem;
-}
-
-#footer-left {
-    width: 25%;
-    float: left;
-    text-align: center;
-    display: inline-block;
-}
-
-#footer-right {
-    width: 25%;
-    text-align: center;
-    display: inline-block;
-    float: right;
-}
-
-#footer-mid {
-    width: 50%;
-    text-align: center;
-    margin: 0 auto;
-    display: inline-block;
 }
 
 .social-list > li {
