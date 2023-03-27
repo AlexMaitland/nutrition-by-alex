@@ -112,7 +112,6 @@ a {
 }
 
 #about-text {
-    float: left;
     padding-top: 30px;
     width: 60%;
     margin-left: 30px;
@@ -140,7 +139,6 @@ a {
 /* How I Can Help */
 
 #how-i-can-help {
-    margin-top: 70px;
     clear: both;
     width: 100%;
 }
@@ -299,7 +297,6 @@ a {
     #about-me {
         clear: both;
         width: 100%;
-        float: left;
         padding: 0;
     }
 }
