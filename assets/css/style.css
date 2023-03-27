@@ -314,7 +314,9 @@ a {
         line-height: 25px;
         text-align: center;
     }
-    
+    #main-img {
+        height: 500px;
+    }
     #about-text {
         max-width: 100%;
         float: left;
@@ -323,11 +325,9 @@ a {
         line-height: 1.25rem;
         overflow-wrap: break-word;
     }
-
     #about-me {
         height: auto;
     }
-
     #about-text > p {
         font-size: 1.25rem;
     }
@@ -348,6 +348,9 @@ a {
     #logo {
         margin-left: 10px;
         font-size: 250%;
+    }
+    #main-img {
+        height: 400px;
     }
     #about-text {
         padding: 0;
