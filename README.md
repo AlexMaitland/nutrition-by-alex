@@ -17,6 +17,7 @@ Nutrition By Alex is a site which looks to provide information about the backgro
 * About Me Section
   * The About Me section will first introduce the user to the Nutritionist Alex.
   * The user will get an insight into the character of Alex and the professional background.
+  * The image is made accessible to visually impaired users by the description 'Portrait of Nutrition By Alex'.
   * The aim is to build a level of trust for the user that should they sign up they will be in capable hands and encourages them to scroll further down the page to find out the plans that are on offer. 
 
 * How I Can Help 
@@ -64,6 +65,7 @@ The process of how this was achieved is as follows:
 * The main content in the About Me section was generated through [ChatGPT](https://chat.openai.com/chat).
 * The Love Running Project served as inspiration for how the How I Can Help section was styled. The repository can be found here [Love Running Repo](https://github.com/AlexMaitland/love-running.git)
 * The social media icons were sourced from [Font Awesome](https://fontawesome.com/)
+* The font pairing was imported using [Google Fonts](https://fonts.google.com/)
 
 
 ### **Media** 
