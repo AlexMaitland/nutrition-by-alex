@@ -10,13 +10,13 @@ Nutrition By Alex is a site which looks to provide information about the backgro
   * The fully responsive navigation bar includes links to the logo and the different sections of the web page, namely About Me, How I Can Help & Get In Touch.
   * The links to the different sections are also highlighted when the user hovers over them by turning pink. This emphasies to the user that they are links and can use them to quickly navigate the web page. 
 
-
+![Screenshot of logo and navigation bar](https://user-images.githubusercontent.com/122832821/228657868-79079e86-7c76-4e04-becc-8a0cae5c36c4.jpeg)
 
 * The Main Image
   * The main image includes a photograph of an example of four meal prep meals which can be provided to the user.
   * This section makes it clear what the following information will be about and provides confidence to the user that if they are here for healthy, meal preparation guidence then they are in the correct place.
 
-
+![Screenshot of main image section](https://user-images.githubusercontent.com/122832821/228658227-04af280b-bbf4-4d64-b4b9-12158da28237.jpeg)
 
 * About Me Section
   * The About Me section will first introduce the user to the Nutritionist Alex.
@@ -24,17 +24,21 @@ Nutrition By Alex is a site which looks to provide information about the backgro
   * The image is made accessible to visually impaired users by the description 'Portrait of Nutrition By Alex'.
   * The aim is to build a level of trust for the user that should they sign up they will be in capable hands and encourages them to scroll further down the page to find out the plans that are on offer. 
 
-
+![Screenshot of About Me section](https://user-images.githubusercontent.com/122832821/228658357-61a7a8c9-fd88-4af7-9e2b-84c7052bbaf7.jpeg)
 
 * How I Can Help 
   * This section sets out clearly the four different plans that the user can choose from and what each plans includes. 
   * By setting out the plans side by side and by listing the services included the user can easily compare between plans. They may then choose a plan that best suits them.
   * As the elements of each plan are listed you can see clearly the benefits of choosing one of the plans towards the right hand side of the page.
 
+![Screenshot of How I Can Help section](https://user-images.githubusercontent.com/122832821/228659014-712c0acf-c3b9-4ccc-a04e-79ca62e0e1f2.jpeg)
+
 
 * Get In Touch
   * In the Get In Touch section the user can provide basic contact information and select a plan they would like to find out more about. 
   * The nutritionist can then use this information to make an initial contact with the user, already knowing which plan they are interested in, and can hopefully start helping the user achieve their goals.
+
+![Screenshot of Get In Touch section](https://user-images.githubusercontent.com/122832821/228659189-2752f47c-1f19-44b0-b097-332464913268.jpeg)
 
 
 * The Footer 
@@ -42,6 +46,7 @@ Nutrition By Alex is a site which looks to provide information about the backgro
   * The social media links highlight blue when hovered over and open in a new tab when clicked.
   * The footer also includes a Copyright statement so no information can be used or stolen by any competitors.
 
+![Screenshot of footer](https://user-images.githubusercontent.com/122832821/228659309-5eaa1923-7cc1-4d7b-8283-e8921b4bf008.jpeg)
 
 
 ## **Testing** 
