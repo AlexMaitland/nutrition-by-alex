@@ -12,11 +12,13 @@ Nutrition By Alex is a site which looks to provide information about the backgro
 
 ![Screenshot of logo and navigation bar](https://user-images.githubusercontent.com/122832821/228657868-79079e86-7c76-4e04-becc-8a0cae5c36c4.jpeg)
 
+
 * The Main Image
   * The main image includes a photograph of an example of four meal prep meals which can be provided to the user.
   * This section makes it clear what the following information will be about and provides confidence to the user that if they are here for healthy, meal preparation guidence then they are in the correct place.
 
 ![Screenshot of main image section](https://user-images.githubusercontent.com/122832821/228658227-04af280b-bbf4-4d64-b4b9-12158da28237.jpeg)
+
 
 * About Me Section
   * The About Me section will first introduce the user to the Nutritionist Alex.
@@ -31,7 +33,7 @@ Nutrition By Alex is a site which looks to provide information about the backgro
   * By setting out the plans side by side and by listing the services included the user can easily compare between plans. They may then choose a plan that best suits them.
   * As the elements of each plan are listed you can see clearly the benefits of choosing one of the plans towards the right hand side of the page.
 
-![Screenshot of How I Can Help section](https://user-images.githubusercontent.com/122832821/228659014-712c0acf-c3b9-4ccc-a04e-79ca62e0e1f2.jpeg)
+![Screenshot of How I Can Help section](https://user-images.githubusercontent.com/122832821/228660847-6cd43c9b-7e1e-4a8b-bfa8-efe7b2c2dfef.jpeg)
 
 
 * Get In Touch
@@ -54,6 +56,9 @@ Nutrition By Alex is a site which looks to provide information about the backgro
 During the creation of the website, the code was tested consistently after each section was added to the page. The websites responsiveness was tested initially by using the inspect function on Google Chrome. This was a quick way to see how the website interacted on different screen sizes. 
 
 This is where the where I encountered the largest amounts of bugs. With the About Me section for example, the image of the nutritionist would remain next to the text on the right hand side and become increasingly small. This looked dreadful so the code was amended by changing the display properties of both the text and image to 'block' rather than inline-block on smaller screen sizes. The image was set to a width of 70% of the display when shifted below the text. This helped with the overall flow of the website on smaller devices. 
+
+![Screenshot of responsive About Me section](https://user-images.githubusercontent.com/122832821/228661508-b1522d52-3ef3-4d0f-b828-af9c0d9acb66.jpeg)
+
 
 ### **Validator Testing**
 
