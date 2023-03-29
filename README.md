@@ -63,6 +63,7 @@ The process of how this was achieved is as follows:
 
 * The main content in the About Me section was generated through [ChatGPT](https://chat.openai.com/chat).
 * The Love Running Project served as inspiration for how the How I Can Help section was styled. The repository can be found here [Love Running Repo](https://github.com/AlexMaitland/love-running.git)
+* The social media icons were sourced from [Font Awesome](https://fontawesome.com/)
 
 
 ### **Media** 
