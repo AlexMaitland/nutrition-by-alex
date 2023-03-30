@@ -51,7 +51,7 @@ Nutrition By Alex is a site which looks to provide information about the backgro
 
 * The Footer 
   * The footer includes links to social media channels used by Nutrition By Alex where the user can find further information. 
-  * The social media links highlight blue when hovered over and open in a new tab when clicked.
+  * The social media links highlight pink when hovered over and open in a new tab when clicked.
   * The footer also includes a Copyright statement so no information can be used or stolen by any competitors.
 
 ![Screenshot of footer](https://user-images.githubusercontent.com/122832821/228659309-5eaa1923-7cc1-4d7b-8283-e8921b4bf008.jpeg)
@@ -92,8 +92,10 @@ The process of how this was achieved is as follows:
 * The Love Running Project served as inspiration for how the How I Can Help section was styled. The repository can be found here [Love Running Repo](https://github.com/AlexMaitland/love-running.git)
 * The social media icons were sourced from [Font Awesome](https://fontawesome.com/)
 * The font pairing was imported using [Google Fonts](https://fonts.google.com/)
+* For refreshers on general coding rules & which elements are able to work together I used [Mozilla](https://developer.mozilla.org/en-US/)
 
 
 ### **Media** 
 
 * The pictures were all sourced from [Pexels](pexels.com) by searching for healthy meals, vegetables & Nutritionist Portrait.
+* The video embedded in the How I Can Help section can be found here [Youtube](https://www.youtube.com/watch?v=EALLOOgXoQY&t=6s)
