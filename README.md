@@ -25,22 +25,28 @@ Nutrition By Alex is a site which looks to provide information about the backgro
   * The user will get an insight into the character of Alex and the professional background.
   * The image is made accessible to visually impaired users by the description 'Portrait of Nutrition By Alex'.
   * The aim is to build a level of trust for the user that should they sign up they will be in capable hands and encourages them to scroll further down the page to find out the plans that are on offer. 
+  
+![Screenshot of About Me section](https://user-images.githubusercontent.com/122832821/228902571-9b51d380-edc6-48ca-be89-3b9035f2bdb1.jpeg)
 
-![Screenshot of About Me section](https://user-images.githubusercontent.com/122832821/228658357-61a7a8c9-fd88-4af7-9e2b-84c7052bbaf7.jpeg)
 
 * How I Can Help 
-  * This section sets out clearly the four different plans that the user can choose from and what each plans includes. 
+  * The How I Can Help section begins with highlighting the benefits of a healthy diet with an embedded Youtube video that the user can choose to watch should they wish.
+  * This section moves on to clearly showcase the four different plans that the user can choose from and what each plans includes. 
   * By setting out the plans side by side and by listing the services included the user can easily compare between plans. They may then choose a plan that best suits them.
+  * On smaller screens the plans are stacked on top of each other which still allows the user to compare plans easily.
   * As the elements of each plan are listed you can see clearly the benefits of choosing one of the plans towards the right hand side of the page.
 
-![Screenshot of How I Can Help section](https://user-images.githubusercontent.com/122832821/228660847-6cd43c9b-7e1e-4a8b-bfa8-efe7b2c2dfef.jpeg)
+
+![Screenshot of How I Can Help section](https://user-images.githubusercontent.com/122832821/228902760-914b60db-cdae-4b77-94aa-23dca9995ef5.jpeg)
+
+![Screenshot of the four plans to choose from](https://user-images.githubusercontent.com/122832821/228902811-a3a31994-e408-4422-85db-bec8a3d079e8.jpeg)
 
 
 * Get In Touch
   * In the Get In Touch section the user can provide basic contact information and select a plan they would like to find out more about. 
   * The nutritionist can then use this information to make an initial contact with the user, already knowing which plan they are interested in, and can hopefully start helping the user achieve their goals.
 
-![Screenshot of Get In Touch section](https://user-images.githubusercontent.com/122832821/228659189-2752f47c-1f19-44b0-b097-332464913268.jpeg)
+![Screenshot of Get In Touch section](https://user-images.githubusercontent.com/122832821/228902988-df815036-0d09-4765-a507-28bf367f992d.jpeg)
 
 
 * The Footer 
