@@ -35,6 +35,9 @@ h1, h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #023b59;
+}
+
+h2 {
     text-decoration: underline solid #eceeef 3px;
 }
 
@@ -388,7 +391,7 @@ a {
         margin: 0;
     }
     .form__group input,
-  .form__group select {
+    .form__group select {
     font-size: 1rem;
-  }
+    }
 }
