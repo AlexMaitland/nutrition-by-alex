@@ -143,6 +143,16 @@ a {
     width: 100%;
 }
 
+#benefit-video {
+    width: 100%;
+    margin: 30px 0;
+}
+
+#benefit-video > iframe {
+    display: block;
+    margin: 0 auto;
+}
+
 #plan-wrapper {
     background-image: url(../images/vegetable-platter.jpg);
     max-width: 100%;
@@ -185,7 +195,7 @@ a {
 
 /* sign-up */
 
-.sign-up-intro {
+.full-text {
     margin: 0 30px;
 }
 
@@ -317,9 +327,6 @@ a {
         max-width: 100%;
         float: left;
         padding: 0;
-        font-size: 1.25rem;
-        line-height: 1.25rem;
-        overflow-wrap: break-word;
     }
     #about-me {
         height: auto;
@@ -327,7 +334,9 @@ a {
     #about-text > p {
         font-size: 1.25rem;
     }
-
+    .full-text > p {
+        font-size: 1.25rem;
+    }
 }
 
 @media screen and (max-width: 700px) {
@@ -362,6 +371,13 @@ a {
         display: block;
         padding: 0;
         margin: 0 auto;
+    }
+    .full-text > p {
+        font-size: 1rem;
+    }
+    #benefit-video > iframe {
+        width: 90%;
+        height: auto;
     }
     .form {
         margin: 0;
