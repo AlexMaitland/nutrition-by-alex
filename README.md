@@ -1,6 +1,6 @@
 # **Nutrition By Alex**
 
-Nutrition By Alex is a site which looks to provide information about the background & services provided by the Nutritionist, Alex. By doing so the hope is the users sign up for one of the fours "Plans" and submit their personal details. Nutrition By Alex will be ideal for people looking to make a change to their diet and need the assistance of a professional.
+Nutrition By Alex is a site which looks to provide information about the background & services provided by the Nutritionist, Alex. The main goal is to build trust with the user that they are in the right place and that Alex is a professional whom they can be assured will help them. By doing so the hope is the users sign up for one of the four "Plans" and submit their personal details. Nutrition By Alex will be ideal for people looking to make a change to their diet and need the assistance of a professional yet approachable nutritionist. The site is aimed at 18 - 39 year old men & women which is evidenced by the somewhat relaxed and informal text approach as well as the color scheme and font choices. 
 
 ## **Features**
 
