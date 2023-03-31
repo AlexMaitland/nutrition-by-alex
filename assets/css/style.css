@@ -300,6 +300,8 @@ a {
     color: #ed0b70;
 }
 
+/* Responsive Design Features */
+
 @media screen and (max-width: 1350px) {
     #plan-wrapper > div {
         width: 100%;
